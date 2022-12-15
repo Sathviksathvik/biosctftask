@@ -1,12 +1,12 @@
 # XORING
 # REVERSENGINEERING ..
 # it is my last task
-HOW I APPROACHED THE  Xoring TASK :
-  FIRST i learned XOR ciphering uses XOR gate table to encrypt and decrypt the text using a key ,
-  when anything  Xored with '0' gives same value, from this concept i verified  key as 'wired' ,
-  i converted Hexa decimal values and Characters into into Binary form which are given in description and then 
-  by using xor table ciphered the converted binary form key and converted values and decoded  values for ctf flag 
-  and got flag ( wired { z3d_m4d3_th1s} )
+## HOW I APPROACHED THE  Xoring TASK :
+FIRST i learned XOR ciphering uses XOR gate table to encrypt and decrypt the text using a key ,
+when anything  Xored with '0' gives same value, from this concept i verified  key as 'wired' ,
+i converted Hexa decimal values and Characters into into Binary form which are given in description and then 
+by using xor table ciphered the converted binary form key and converted values and decoded  values for ctf flag 
+and got flag ( wired { z3d_m4d3_th1s} )
   
  WHAT I LEARNED FROM IT :
   I studied XOR gate table 

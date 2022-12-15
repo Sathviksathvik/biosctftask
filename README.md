@@ -19,7 +19,7 @@ HOW I APPROACHED THE  Xoring TASK :
 
 # I tried crypto tasks first in wired_ctf 
 flag format ( wired{key} )
-ceasercipher[CRYPTO]
+# ceasercipher[CRYPTO]
 
 HOW I APPROACHED IT :
   First i learned what is cipher and then identified the type of chipher as ceaserchipher,
@@ -42,7 +42,8 @@ HOW I APPROACHED IT :
    gives cipher text words , intersection of key and cipher text gives plain text .
    
  
- #Lifetimesettlement[CRYPTO]
+ # Lifetimesettlement[CRYPTO]
+ 
   HOW I APPROACHED the task  :
    I identified it as spoon cipher and found a online compiler for decryption 
    of cipher text given description with 1s and 0s and got the flag 
@@ -51,7 +52,7 @@ HOW I APPROACHED IT :
     I learned that spoon ciphertext is encrypted in 0s and 1s
     which is represented instead of  sequence of characters 
     
-  #GREP_IT[REVERSENGINEERING]
+  # GREP_IT[REVERSENGINEERING]
   HOW I APPROACHED THE TASK:
    Downloaded the file and  in linux termianl using grep command searched for 'wired'
    text and got the flag 
@@ -70,6 +71,7 @@ HOW I APPROACHED IT :
    again understood linux command grep can be  used to search for text in a file 
    
   #find_thyself[OSNIT]
+  
   HOW I APPROACHED THE TASK:
    downloaded the file which have image from image identified a key word and searched for origin  keyword 
    got the country name italy 
@@ -85,7 +87,8 @@ HOW I APPROACHED IT :
   #Sanity check -2[MISC]
    Filled google form have same flag as before 
   
-  #aint'_no_sunshine![OFFLINE HARDWARE]
+  # aint'_no_sunshine![OFFLINE HARDWARE]
+  
   HOW I APPROACHED THE TASK:
    analysed the given circuit from description and joined the circuit 
    and connected the circuit to laptop runned the 
@@ -93,7 +96,8 @@ HOW I APPROACHED IT :
   WHAT I LEARNED FROM TASK:
    understood the circuits connections 
    
-  #Chans'favorite[WIRELESS]
+  # Chans'favorite[WIRELESS]
+  
   HOW I APPROACHED THE TASK:
    downloaded the software audacity as given hint and imported audio to audacity
    and using steganography settings

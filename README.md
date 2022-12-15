@@ -59,10 +59,10 @@ HOW I APPROACHED IT :
   WHAT I LEARNED FROM IT :
     linux command grep is used to extract or search text in a given file 
     
-  #GREP-IT
+  # GREP-IT
   submitted flag again same description and flag .
   
-  #DOZ3N_IS_K3Y[REVERSENGINEERING]
+  # DOZ3N_IS_K3Y[REVERSENGINEERING]
   HOW I APPROACHED THE TASK :
    Downloaded the file and in linux terminal using grep i searched for flag 
    i got cipher text and used online 
@@ -70,7 +70,7 @@ HOW I APPROACHED IT :
   WHAT I LEARNED :
    again understood linux command grep can be  used to search for text in a file 
    
-  #find_thyself[OSNIT]
+  # find_thyself[OSNIT]
   
   HOW I APPROACHED THE TASK:
    downloaded the file which have image from image identified a key word and searched for origin  keyword 
@@ -78,10 +78,10 @@ HOW I APPROACHED IT :
   WHAT I LERANED:
    image have name of company which is famous in italy
    
-  #Sanity Check-1[MISC]
+  # Sanity Check-1[MISC]
    Jioned the discord  server and got the flag which is in discord
   
-  #Sanity Check[MISC]
+  # Sanity Check[MISC]
    Filled a given google form and got the flag 
   
   #Sanity check -2[MISC]

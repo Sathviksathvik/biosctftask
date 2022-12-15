@@ -93,6 +93,7 @@ HOW I APPROACHED IT :
    analysed the given circuit from description and joined the circuit 
    and connected the circuit to laptop runned the 
    circuit in aurdino and got flag 
+   
   WHAT I LEARNED FROM TASK:
    understood the circuits connections 
    

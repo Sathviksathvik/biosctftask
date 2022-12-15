@@ -1,5 +1,5 @@
-#XORING
-#REVERSENGINEERING ..
+# XORING
+# REVERSENGINEERING ..
 # it is my last task
 HOW I APPROACHED THE  Xoring TASK :
   FIRST i learned XOR ciphering uses XOR gate table to encrypt and decrypt the text using a key ,

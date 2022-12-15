@@ -101,10 +101,11 @@ HOW I APPROACHED IT :
   HOW I APPROACHED THE TASK:
    downloaded the software audacity as given hint and imported audio to audacity
    and using steganography settings
-   got image and searched in google lens for name and got the flag 
-  WHAT I LEARNED FROM IT :
-    audacity software is used to convert audio to image using
-    stegonography technique using steganography settings in audacity 
+   got image and searched in google lens for name and got the flag
+   
+WHAT I LEARNED FROM IT :
+ audacity software is used to convert audio to image using
+ stegonography technique using steganography settings in audacity 
   
    
 
